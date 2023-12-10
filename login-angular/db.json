@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "fullName": "test",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullName": "test",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "fullName": "asan",
+      "email": "asan1@gamil.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "fullName": "asan bro",
+      "email": "asan2@gamil.com",
+      "password": "654321",
+      "id": 4
+    },
+    {
+      "fullName": "asantwo",
+      "email": "asan2@gamil.com",
+      "password": "321",
+      "id": 5
+    },
+    {
+      "fullName": "asanthree",
+      "email": "asan2@gmail.com",
+      "password": "12345",
+      "id": 6
+    }
+  ]
+}
